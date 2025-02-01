@@ -1,4 +1,4 @@
-- [ ] Complete Git and GitHub Course
+- [X] Complete Git and GitHub Course
 - [ ] **Introduction to Programming**
   - [ ] Types of languages
   - [ ] Memory management
