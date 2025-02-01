@@ -1,4 +1,4 @@
-- [ ] **Types of languages**
+- [X] **Types of languages**
 - [ ] **Memory management**
 - [ ] **Flow of the program**
 - [ ] **Flowcharts**
