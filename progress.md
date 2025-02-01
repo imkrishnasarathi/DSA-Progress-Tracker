@@ -1,8 +1,10 @@
-- [X] **Types of languages**
-- [ ] **Memory management**
-- [ ] **Flow of the program**
-- [ ] **Flowcharts**
-- [ ] **Pseudocode**
+- [ ] Complete Git and GitHub Course
+- [ ] **Introduction to Programming**
+  - [ ] Types of languages
+  - [ ] Memory management
+  - [ ] Flow of the program
+  - [ ] Flowcharts
+  - [ ] Pseudocode
 - [ ] **Introduction to Java**
   - [ ] Introduction
   - [ ] How it works
