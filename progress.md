@@ -1,6 +1,6 @@
 - [X] Complete Git and GitHub Course
 - [ ] **Introduction to Programming**
-  - [ ] Types of languages
+  - [X] Types of languages
   - [ ] Memory management
   - [ ] Flow of the program
   - [ ] Flowcharts
