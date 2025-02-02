@@ -18,6 +18,11 @@ else:
 exit
 ```
 
+#### Flowchart
+
+![image](https://github.com/user-attachments/assets/7db26426-7c45-49c9-9527-a622e5e8ad3d)
+
+
 2. Take two numbers and print the sum of both.
 3. Take a number as input and print the multiplication table for it.
 4. Take 2 numbers as inputs and find their HCF and LCM.
