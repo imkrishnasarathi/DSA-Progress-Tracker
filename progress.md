@@ -1,7 +1,7 @@
 - [X] Complete Git and GitHub Course
 - [ ] **Introduction to Programming**
   - [X] Types of languages
-  - [ ] Memory management
+  - [X] Memory management
   - [ ] Flow of the program
   - [ ] Flowcharts
   - [ ] Pseudocode
