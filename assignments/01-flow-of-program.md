@@ -89,3 +89,7 @@ while not(isX):
 output sum
 exit
 ```
+
+#### Flowchart
+
+
