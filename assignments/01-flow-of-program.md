@@ -62,4 +62,30 @@ exit
 
 
 ### 4. Take 2 numbers as inputs and find their HCF and LCM.
-5. Keep taking numbers as inputs till the user enters ‘x’, after that print sum of all.
+
+#### Pseudocode
+
+```
+
+```
+
+### 5. Keep taking numbers as inputs till the user enters ‘x’, after that print sum of all.
+
+#### Pseudocode
+
+```
+start
+read x
+sum = 0
+isX = false
+while not(isX):
+  input num
+  if num == x:
+    isX = true
+    sum = sum + num
+  else:
+    sum = sum + num
+
+output sum
+exit
+```
