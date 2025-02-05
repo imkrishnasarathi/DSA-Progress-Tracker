@@ -2,7 +2,7 @@
 - [ ] **Introduction to Programming**
   - [X] Types of languages
   - [X] Memory management
-  - [ ] Flow of the program
+  - [x] Flow of the program
   - [ ] Flowcharts
   - [ ] Pseudocode
 - [ ] **Introduction to Java**
