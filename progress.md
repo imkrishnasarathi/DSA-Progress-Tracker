@@ -1,5 +1,5 @@
 - [X] Complete Git and GitHub Course
-- [ ] **Introduction to Programming**
+- [X] **Introduction to Programming**
   - [X] Types of languages
   - [X] Memory management
   - [X] Flow of the program
