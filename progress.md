@@ -8,7 +8,7 @@
 - [ ] **Introduction to Java**
   - [X] Introduction
   - [X] How it works
-  - [ ] Setup Installation
+  - [X] Setup Installation
   - [ ] Input and Output in Java
   - [ ] Conditionals & Loops in Java
     - [ ] if else
