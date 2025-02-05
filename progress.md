@@ -6,7 +6,7 @@
   - [X] Flowcharts
   - [X] Pseudocode
 - [ ] **Introduction to Java**
-  - [ ] Introduction
+  - [X] Introduction
   - [ ] How it works
   - [ ] Setup Installation
   - [ ] Input and Output in Java
