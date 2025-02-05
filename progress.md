@@ -7,7 +7,7 @@
   - [X] Pseudocode
 - [ ] **Introduction to Java**
   - [X] Introduction
-  - [ ] How it works
+  - [X] How it works
   - [ ] Setup Installation
   - [ ] Input and Output in Java
   - [ ] Conditionals & Loops in Java
