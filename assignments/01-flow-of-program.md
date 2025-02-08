@@ -29,10 +29,12 @@ exit
 
 ```
 start
+
 input a
 input b
 sum = a+b
 output sum
+
 exit
 ```
 
