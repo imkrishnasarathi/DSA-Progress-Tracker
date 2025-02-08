@@ -9,7 +9,7 @@
   - [X] Introduction
   - [X] How it works
   - [X] Setup Installation
-  - [ ] Input and Output in Java
+  - [X] Input and Output in Java
   - [ ] Conditionals & Loops in Java
     - [ ] if else
     - [ ] loops
